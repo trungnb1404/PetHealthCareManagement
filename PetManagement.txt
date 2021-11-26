@@ -1,0 +1,4 @@
+2,a,21,Female,a@gmail.com,2222222222,TG,1,alive
+3,b,22,Female,b@gmail.com,3333333333,TG,2,die
+4,d,11,Male,d@gmail.com,4444444444,TP,0,die
+5,z,22,Male,z@gmail.com,55555555555,TP,2,die
